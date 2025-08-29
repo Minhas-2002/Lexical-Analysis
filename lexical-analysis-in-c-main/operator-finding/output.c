@@ -1,2 +1,0 @@
-Operators found: < > = + * > - = 
-//Done (operators).
